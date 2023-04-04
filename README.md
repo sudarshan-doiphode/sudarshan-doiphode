@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sudarshan</h1>
-<h3 align="center">A passionate Developer who more interested in DevOps now a day's</h3>
+<h1 align="center">Hi 👋, I'm Sudarshan </h1>
+<h3 align="center">A passionate Developer who is more interested in DevOps now a day's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan-doiphode&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-doiphode" /> </p>
 
