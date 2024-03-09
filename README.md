@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/100bitdarsh" target="blank"><img src="https://img.shields.io/twitter/follow/100bitdarsh?logo=twitter&style=for-the-badge" alt="100bitdarsh" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java, Springboot, Spring Security, SpringDataJpa and Many more**
 
-- 🌱 I’m currently learning **DevOps, OpenSource Contribution, Devlopment**
+- 🌱 I’m currently learning **DevOps, React**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
