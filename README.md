@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@100bitdarsh](https://hashnode.com/@100bitdarsh)
 
-- 💬 Ask me about **I am Java Developer also I am a Educator on YouTube.**
+- 💬 **I am Java Developer also I am a Educator on YouTube.**
 
 ### Blogs posts
 - https://sudarshandoiphode.hashnode.dev/comparable-comparator-in-easy-way
