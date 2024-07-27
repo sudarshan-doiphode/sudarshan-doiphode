@@ -17,8 +17,6 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@100bitdarsh](https://hashnode.com/@100bitdarsh)
 
-- 💬 **I am Java Developer also I am a Educator on YouTube.**
-
 ### Blogs posts
 - https://sudarshandoiphode.hashnode.dev/comparable-comparator-in-easy-way
 - https://sudarshandoiphode.hashnode.dev/responseentityt-vs-httpentityt
