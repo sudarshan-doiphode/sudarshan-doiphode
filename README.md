@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **I am Java Developer also I am a Educator on YouTube.**
 
-- 📫 How to reach me **sudarshan.doiphode3@gmail.com**
-
 ### Blogs posts
 - https://sudarshandoiphode.hashnode.dev/comparable-comparator-in-easy-way
 - https://sudarshandoiphode.hashnode.dev/responseentityt-vs-httpentityt
