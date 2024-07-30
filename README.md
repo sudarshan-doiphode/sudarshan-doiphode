@@ -21,6 +21,7 @@
 - https://sudarshandoiphode.hashnode.dev/comparable-comparator-in-easy-way
 - https://sudarshandoiphode.hashnode.dev/responseentityt-vs-httpentityt
 - https://sudarshandoiphode.hashnode.dev/understanding-the-essentials-of-httpentity-in-spring-framework
+- https://sudarshandoiphode.hashnode.dev/generating-a-docker-image-for-a-spring-boot-application
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
