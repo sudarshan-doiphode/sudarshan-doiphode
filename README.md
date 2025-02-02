@@ -18,6 +18,8 @@
 - 📝 I regularly write articles on [https://hashnode.com/@100bitdarsh](https://hashnode.com/@100bitdarsh)
 
 ### Blogs posts
+- https://100bitdarsh.medium.com/exception-handling-in-spring-boot-9a8395b15ad0
+- https://100bitdarsh.medium.com/why-connection-pools-like-hikaricp-are-essential-in-spring-boot-microservices-4da6ef35769c
 - https://sudarshandoiphode.hashnode.dev/comparable-comparator-in-easy-way
 - https://sudarshandoiphode.hashnode.dev/responseentityt-vs-httpentityt
 - https://sudarshandoiphode.hashnode.dev/understanding-the-essentials-of-httpentity-in-spring-framework
