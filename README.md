@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **More OpenSource**
 
-- 📝 I regularly write articles on [https://hashnode.com/@100bitdarsh](https://hashnode.com/@100bitdarsh)
+- 📝 I regularly write articles on [https://100bitdarsh.medium.com/](https://100bitdarsh.medium.com/)
 
 ### Blogs posts
 - https://100bitdarsh.medium.com/exception-handling-in-spring-boot-9a8395b15ad0
